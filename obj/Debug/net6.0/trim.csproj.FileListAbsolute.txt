@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\trim\trim\bin\Debug\net6.0\trim.exe
+C:\Users\user\source\repos\trim\trim\bin\Debug\net6.0\trim.deps.json
+C:\Users\user\source\repos\trim\trim\bin\Debug\net6.0\trim.runtimeconfig.json
+C:\Users\user\source\repos\trim\trim\bin\Debug\net6.0\trim.dll
+C:\Users\user\source\repos\trim\trim\bin\Debug\net6.0\trim.pdb
+C:\Users\user\source\repos\trim\trim\obj\Debug\net6.0\trim.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\trim\trim\obj\Debug\net6.0\trim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\trim\trim\obj\Debug\net6.0\trim.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\trim\trim\obj\Debug\net6.0\trim.AssemblyInfo.cs
+C:\Users\user\source\repos\trim\trim\obj\Debug\net6.0\trim.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\trim\trim\obj\Debug\net6.0\trim.dll
+C:\Users\user\source\repos\trim\trim\obj\Debug\net6.0\refint\trim.dll
+C:\Users\user\source\repos\trim\trim\obj\Debug\net6.0\trim.pdb
+C:\Users\user\source\repos\trim\trim\obj\Debug\net6.0\trim.genruntimeconfig.cache
+C:\Users\user\source\repos\trim\trim\obj\Debug\net6.0\ref\trim.dll
